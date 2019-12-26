@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17f9821a-4945-4549-a136-d565a8f97dfd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VU3H6ua4Hhq6nzJS3tPFw4huO1" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/utilities" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/utilities" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Testcase1.testCase3">
+    <configuration name="Testcase1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestCases.Testcase1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testcase1.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestCases.Testcase1" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testcase1.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestCases.Testcase1" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testcase1.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestCases.Testcase1" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testcase1.testCase3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumHomework3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestCases.Testcase1" />
+      <option name="METHOD_NAME" value="testCase3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Testcase1.testCase3" />
+        <item itemvalue="TestNG.Testcase1" />
+        <item itemvalue="TestNG.Testcase1.test1" />
+        <item itemvalue="TestNG.Testcase1.test3" />
+        <item itemvalue="TestNG.Testcase1.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17f9821a-4945-4549-a136-d565a8f97dfd" name="Default Changelist" comment="" />
+      <created>1577293755283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577293755283</updated>
+    </task>
+    <servers />
+  </component>
+</project>
